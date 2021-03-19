@@ -19,7 +19,7 @@ header{
     height: 65%;
     padding-top: 2%;    
     text-align: center;
-    overflow: auto;
+    overflow: hidden;
 
 }
 
